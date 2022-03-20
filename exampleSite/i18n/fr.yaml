@@ -1,3 +1,4 @@
+---
 - id: blogTitle
   translation: Dernier message
 - id: readMore
@@ -21,7 +22,7 @@
 - id: team
   translation: Équipe
 - id: pricing
-  translation: Tarification
+  translation: Tarif
 - id: blog
   translation: Blog
 - id: contact
